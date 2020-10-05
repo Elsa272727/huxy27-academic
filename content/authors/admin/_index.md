@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xinyi HU
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postgraduate student of Architecture
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Southeast University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include building energy efficient design and retrofit, Building Integrated Photovoltaic (BIPV) design, and life-cycle energy (LCEA) and carbon dioxide emissions (LCCO2A) assessment.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Building energy efficient design and retrofit
+- Building Integrated Photovoltaic (BIPV) design
+- Life-cycle energy (LCEA) and carbon dioxide emissions (LCCO2A) assessment
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.A. in Architecture
+    institution: Southeast University, China
+    year: Sep 2018 - present (Expected graduation: Jun 2021)
+  - course: B.A. in Architecture
+    institution: Nanjing Tech University, China
+    year: Sep 2013 - Jun 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -73,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Xinyi Hu is a postgraduate student of architecture at Southeast University, China. Her research interests include building energy efficient design and retrofit, Building Integrated Photovoltaic (BIPV) design, and life-cycle energy (LCEA) and carbon dioxide emissions (LCCO2A) assessment.
