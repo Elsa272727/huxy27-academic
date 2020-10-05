@@ -30,21 +30,21 @@ experience:
   date_end: "2020-02-28"
   date_start: "2019-10-01"
   description: |-
-    Key Responsibilities
+    KEY RESPONSIBILITIES
     * Participated in the research program “EAST-CITIES: Establishing and Achieving Sustainability Targets in Eastern Chinese Cities”
     * Studied on the building materials and energy consumption of Qingdao industrial buildings
 
-    |- General steps
+    GENERAL STEPS
     * Searched the literature and database and determined the main structure type of Qingdao industrial buildings (steel structure, steel-concrete composite structure), and its material consumption range and energy use form
     * Established the typical building models with Revit and energy simulation models with DesignBuilder
     * Simulated and analyzed the material use, energy consumption and CO2 emission of each typical building
     * Proposed a series of sustainable strategies for future industrial buildings
 
-    |- Innovation
+    INNOVATION
     * Established typical building models in different time periods under different energy-efficient standards, which have also affected the material use and energy consumption
     * Took foundation components into account
 
-    |- Output
+    OUTPUT
     * One abstract submitted to International Workshop on Health - Energy Efficiency & Intelligent Building Systems (HEIBS) to be hold in 2021
     * One inspired study on the application of rooftop PV systems in lightweight steel-structured industrial buildings, accepted by the conference Alternative & Renewable Energy Quest in Architecture and Urbanism (AREQ) in 2020
   location: Technical University Braunschweig, Germany
