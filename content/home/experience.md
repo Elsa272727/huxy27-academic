@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Institute for Building Service and Energy Design"
   company_url = ""
   location = "Technical University Braunschweig, Germany"
-  date_start = "Oct 2019"
-  date_end = "Feb 2020"
+  date_start = "2019-10-01"
+  date_end = "2020-2-28"
   description = """
   [Key responsibilities]
   
@@ -45,7 +45,6 @@ date_format = "Jan 2006"
   [Output]
   * One abstract submitted to International Workshop on Health - Energy Efficiency & Intelligent Building Systems (HEIBS) to be hold in 2021.
   * One inspired study on the application of rooftop PV systems in lightweight steel-structured industrial buildings, accepted by the conference Alternative & Renewable Energy Quest in Architecture and Urbanism (AREQ) in 2020.
-
   """
 
 [[experience]]
