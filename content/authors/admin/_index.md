@@ -62,7 +62,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/resume.pdf
+  link: static/media/resume.pdf
 
 # Email for Contact widget or Gravatar
 email: ""
@@ -76,8 +76,4 @@ user_groups:
 - Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+Xinyi Hu is a postgraduate student of architecture at Southeast University, China. Her research interests include building energy efficient design and retrofit, Building Integrated Photovoltaic (BIPV) design, and life-cycle energy (LCEA) and carbon dioxide emissions (LCCO2A) assessment
