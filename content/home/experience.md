@@ -50,6 +50,7 @@ experience:
   location: Germany
   title: Research intern
 
+experience:
 - company: Southeast University
   company_url: ""
   date_end: "2019-02-01"
@@ -74,6 +75,7 @@ experience:
   location: Nanjing, China
   title: Building energy-efficient retrofit research
 
+experience:
 - company: "C-House" project, Solar Decathlon China 2018
   company_url: ""
   date_end: "2018-04-01"
