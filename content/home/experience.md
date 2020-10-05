@@ -49,6 +49,29 @@ experience:
     * One inspired study on the application of rooftop PV systems in lightweight steel-structured industrial buildings, accepted by the conference Alternative & Renewable Energy Quest in Architecture and Urbanism (AREQ) in 2020
   location: Germany
   title: Research intern
+- company: Southeast University
+  company_url: ""
+  date_end: "2020-09-28"
+  date_start: "2019-02-01"
+  description: |-
+    GENERAL STEPS
+    * Performed thermal performance measurement of an existing rural house
+    * Analyzed the situation of residential buildings in rural area and the retrofitting feasibility
+    * Developed a framework to choose the active-passive combined economically optimal retrofitting strategies for existing rural dwellings
+    * Created a building model for the energy simulation with DesignBuilder and calibrated it with the 2-month environmental and energy monitoring
+    * Analyzed 17 retrofitting external wall selections combined with a rooftop PV generation system
+    * Figured out the optimal plan meeting the annual energy balance requirement with the lowest budget
+
+    INNOVATION
+    * Retrofitting framework considering the originality of rural construction and material, economic capacity and the limitation of regional regulations
+    * Energy simulation model calibrated with energy and environmental monitoring data
+
+    KEY RESPONSIBILITIES
+    * Thermal transmittance measurement of external walls
+    * Energy simulation modeling and calibration
+    * Manuscript drafting and proofreading
+  location: Nanjing, China
+  title: Building energy-efficient retrofit research
 - company: Institute for Building Service and Energy Design, Technical University Braunschweig
   company_url: ""
   date_end: "2020-02-28"
