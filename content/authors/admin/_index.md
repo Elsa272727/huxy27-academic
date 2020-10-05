@@ -62,7 +62,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: static/media/resume.pdf
+  link: /media/resume.pdf
 
 # Email for Contact widget or Gravatar
 email: ""
