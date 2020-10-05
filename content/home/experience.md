@@ -47,6 +47,7 @@ experience:
     OUTPUT
     * One abstract submitted to International Workshop on Health - Energy Efficiency & Intelligent Building Systems (HEIBS) to be hold in 2021
     * One inspired study on the application of rooftop PV systems in lightweight steel-structured industrial buildings, accepted by the conference Alternative & Renewable Energy Quest in Architecture and Urbanism (AREQ) in 2020
+|-
   location: Germany
   title: Research intern
 
@@ -72,6 +73,7 @@ experience:
     * Thermal transmittance measurement of external walls
     * Energy simulation modeling and calibration
     * Manuscript drafting and proofreading
+|-
   location: Nanjing, China
   title: Building energy-efficient retrofit research
 
