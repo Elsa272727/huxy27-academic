@@ -1,26 +1,27 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xinyi Hu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postgraduate student of Architecture
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Southeast University
+  url: https://arch.seu.edu.cn/jz_en/main.htm
+
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include building energy efficient design and retrofit, Building Integrated Photovoltaic (BIPV) design, and life-cycle energy (LCEA) and carbon dioxide emissions (LCCO2A) assessment.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Building energy efficient design and retrofit
+- Building Integrated Photovoltaic (BIPV) design
+- Life-cycle energy (LCEA) and carbon dioxide emissions (LCCO2A) assessment
 
 # Education to show in About widget
 education:
@@ -43,25 +44,25 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # OR `google-scholar`
-  icon_pack: fas  # OR `ai`
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+# - icon: twitter
+#  icon_pack: fab
+# link: https://twitter.com/GeorgeCushen
+# - icon: graduation-cap  # OR `google-scholar`
+#  icon_pack: fas  # OR `ai`
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/resume.pdf
 
 # Email for Contact widget or Gravatar
 email: ""
