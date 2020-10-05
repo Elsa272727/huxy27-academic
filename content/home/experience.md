@@ -72,28 +72,19 @@ experience:
     * Manuscript drafting and proofreading
   location: Nanjing, China
   title: Building energy-efficient retrofit research
-- company: Institute for Building Service and Energy Design, Technical University Braunschweig
+- company: Southeast University and TU Braunschweig Union
   company_url: ""
-  date_end: "2020-02-28"
-  date_start: "2019-10-01"
+  date_end: "2018-08-31"
+  date_start: "2018-04-01"
   description: |-
+    GENERAL INFORMATION OF C-HOUSE
+    * A two-story lightweight steel-framed house which was completed and delivered within 20 days with the application of three-level component assembly technology
+    * Combined the active energy “Core” and the passive energy-efficient envelope “Cube”
+
     KEY RESPONSIBILITIES
-    * Participated in the research program “EAST-CITIES: Establishing and Achieving Sustainability Targets in Eastern Chinese Cities”
-    * Studied on the building materials and energy consumption of Qingdao industrial buildings
-
-    GENERAL STEPS
-    * Searched the literature and database and determined the main structure type of Qingdao industrial buildings (steel structure, steel-concrete composite structure), and its material consumption range and energy use form
-    * Established the typical building models with Revit and energy simulation models with DesignBuilder
-    * Simulated and analyzed the material use, energy consumption and CO2 emission of each typical building
-    * Proposed a series of sustainable strategies for future industrial buildings
-
-    INNOVATION
-    * Established typical building models in different time periods under different energy-efficient standards, which have also affected the material use and energy consumption
-    * Took foundation components into account
-
-    OUTPUT
-    * One abstract submitted to International Workshop on Health - Energy Efficiency & Intelligent Building Systems (HEIBS) to be hold in 2021
-    * One inspired study on the application of rooftop PV systems in lightweight steel-structured industrial buildings, accepted by the conference Alternative & Renewable Energy Quest in Architecture and Urbanism (AREQ) in 2020
-  location: Germany
-  title: Research intern
+    * Recorded the installation and demolition phase of C-House, calculated the energy consumption during manufacturing, and also summarized the energy-efficient methods used in the building design and construction phase. (conference paper [4] published)
+    * From the perspective of building components, proposed design methods of maintainable residential buildings, namely durability and replaceable design of building components, and independent design of component groups. (conference paper [5] published)
+    * Discussed with German partners (designers of the Core) and summarized strategies of intelligent energy-plus house based on BIPV, especially the performance design during early design stage, the energy consumption-production method of HVAC system and PV system, and the smart energy control system. (journal article [1] published)
+  location: Dezhou, China
+  title: C-House project, Solar Decathlon China 2018
 ---
