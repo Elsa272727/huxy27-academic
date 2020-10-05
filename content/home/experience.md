@@ -25,17 +25,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
-- company: GenCoin
+- company: Institute for Building Service and Energy Design
   company_url: ""
-  date_end: ""
-  date_start: "2017-01-01"
+  date_end: "2020-02-28"
+  date_start: "2019-10-01"
   description: |-
-    Responsibilities include:
-    * Analysing
-    * Modelling
-    * Deploying
-  location: California
-  title: CEO
+    Key Responsibilities
+    * Participated in the research program “EAST-CITIES: Establishing and Achieving Sustainability Targets in Eastern Chinese Cities”.
+    * Studied on the building materials and energy consumption of Qingdao industrial buildings
+  location: Technical University Braunschweig, Germany
+  title: Research intern
 - company: University X
   company_url: ""
   date_end: "2016-12-31"
