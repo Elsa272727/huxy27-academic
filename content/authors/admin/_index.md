@@ -15,20 +15,20 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include building energy efficient design and retrofit, Building Integrated Photovoltaic (BIPV) design, and life-cycle energy (LCEA) and carbon dioxide emissions (LCCO2A) assessment.
+bio: My research interests include building energy efficient design and retrofit, Building Integrated Photovoltaic (BIPV) design, and life-cycle energy (LCEA) and CO2 emissions (LCCO2A) assessment.
 
 # Interests to show in About widget
 interests:
 - Building energy efficient design and retrofit
-- Building Integrated Photovoltaic (BIPV) design
-- Life-cycle energy (LCEA) and carbon dioxide emissions (LCCO2A) assessment
+- Building Integrated Photovoltaic design
+- Life-cycle energy and CO2 emissions assessment
 
 # Education to show in About widget
 education:
   courses:
   - course: M.A. in Architecture
     institution: Southeast University, China
-    year: Sep 2018 - present
+    year: Sep 2018 - Jun 2021 (Expected)
   - course: B.A. in Architecture
     institution: Nanjing Tech University, China
     year: Sep 2013 - Jun 2018
@@ -47,9 +47,9 @@ social:
 # - icon: graduation-cap  # OR `google-scholar`
 #  icon_pack: fas  # OR `ai`
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-# - icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/Elsa272727
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/
@@ -59,7 +59,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: /media/resume.pdf
+  link: /pdf/Resume.pdf
 
 # Email for Contact widget or Gravatar
 email: ""
@@ -73,4 +73,4 @@ user_groups:
 - Principal Investigators
 ---
 
-Xinyi Hu is a postgraduate student of architecture at Southeast University, China. Her research interests include building energy efficient design and retrofit, Building Integrated Photovoltaic (BIPV) design, and life-cycle energy (LCEA) and carbon dioxide emissions (LCCO2A) assessment
+Xinyi Hu is a postgraduate student of architecture at Southeast University, China. Her research interests include building energy efficient design and retrofit, Building Integrated Photovoltaic (BIPV) design, and life-cycle energy (LCEA) and CO2 emissions (LCCO2A) assessment
